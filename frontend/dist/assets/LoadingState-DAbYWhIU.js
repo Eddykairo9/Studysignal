@@ -1,0 +1,1 @@
+import{j as a}from"./index-CNdmVMF4.js";function i({label:s="Loading data…"}){return a.jsxs("div",{"aria-live":"polite",className:"loading-state",role:"status",children:[a.jsx("span",{className:"loading-spinner"}),s]})}export{i as L};

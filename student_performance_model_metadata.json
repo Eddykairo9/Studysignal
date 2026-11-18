@@ -1,0 +1,13 @@
+{
+  "selected_model": "Tuned Random Forest",
+  "cv_macro_f1": {
+    "Tuned Logistic Regression": 0.5733834941664357,
+    "Tuned Random Forest": 0.5832743560039267
+  },
+  "models": {
+    "Tuned Logistic Regression": "student_performance_logistic_regression.pkl",
+    "Tuned Random Forest": "student_performance_random_forest.pkl"
+  },
+  "data_provenance": "synthetic_demo",
+  "results_status": "complete"
+}
